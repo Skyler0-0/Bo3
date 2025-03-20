@@ -318,7 +318,7 @@ Transform:
   m_GameObject: {fileID: 866272960}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0.47, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -481,6 +481,63 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fbc59048cac402d41959b23c67005422, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1001 &1636187900
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: b6ad5f3d7f1004344930b36f622f6254, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.7192328
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b6ad5f3d7f1004344930b36f622f6254, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00000047683716
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b6ad5f3d7f1004344930b36f622f6254, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.7802372
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b6ad5f3d7f1004344930b36f622f6254, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b6ad5f3d7f1004344930b36f622f6254, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b6ad5f3d7f1004344930b36f622f6254, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b6ad5f3d7f1004344930b36f622f6254, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b6ad5f3d7f1004344930b36f622f6254, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b6ad5f3d7f1004344930b36f622f6254, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b6ad5f3d7f1004344930b36f622f6254, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b6ad5f3d7f1004344930b36f622f6254, type: 3}
+      propertyPath: m_Name
+      value: Orc Idle
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6ad5f3d7f1004344930b36f622f6254, type: 3}
 --- !u!1 &1898197734
 GameObject:
   m_ObjectHideFlags: 0
@@ -595,3 +652,4 @@ SceneRoots:
   - {fileID: 705507995}
   - {fileID: 866272966}
   - {fileID: 1898197738}
+  - {fileID: 1636187900}
