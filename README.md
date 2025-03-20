@@ -4,7 +4,7 @@ als je op spatie drukt vliegt het blokje omhoog
 
 ![Tutorial0](gifjes/Totorial0.gif)
 
-[scriptTutorial0](assets/Scripts/LaunchCube.cs)
+[scriptTutorial0](Assets/Scripts/LaunchCube.cs)
 
 
 # Tutorial 1.
@@ -13,4 +13,4 @@ met deze tutorial heb ik een character een achteruit salto laten doen als je op 
 
 ![Tutoial1](gifjes/Totorial1.gif)
 
-[scriptTutoral1](assets/Scripts/Flip.cs)
+[scriptTutoral1](Assets/Scripts/Flip.cs)
