@@ -31,5 +31,6 @@ met deze tutorial heb ik de speler laten springen op platvormen.
 ![Tutorial3](gifjes/Tutorial3.gif)
 
 [ScriptTutorial3](Assets/Scripts/Jump.cs)
+[ScriptTutorial3Movement](Assets/Scripts/MoveBasic.cs)
 
 
