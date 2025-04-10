@@ -34,3 +34,11 @@ met deze tutorial heb ik de speler laten springen op platvormen.
 [ScriptTutorial3Movement](Assets/Scripts/MoveBasic.cs)
 
 
+# Tutorial 4
+
+met deze tutorial heb ik pickups gemaakt. als je tegen een pickup aan komt dan verdwijnt die en krijg je 5 punten
+
+![Tutorial4](gifjes/Tutorial4.gif)
+
+[scriptPickup](Assets/Scripts/GetPickup.cs)
+[scriptScore](Assets/Scripts/KeepScore.cs)
