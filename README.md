@@ -42,3 +42,15 @@ met deze tutorial heb ik pickups gemaakt. als je tegen een pickup aan komt dan v
 
 [scriptPickup](Assets/Scripts/GetPickup.cs)
 [scriptScore](Assets/Scripts/KeepScore.cs)
+
+
+
+# Tutorial 5 
+
+met deze tutorial heb ik enemies gemaakt en een bullet waarmee ik ze kan shieten
+
+![Tutorial5](gifjes/Tutorial5.gif)
+
+[ScriptKillOnHit](Assets/Scripts/KillOnHit.cs)
+[ScriptMoveBullet](Assets/Scripts/BulletMove.cs)
+[ScriptShoot](Assets/Scripts/Shoot.cs)
