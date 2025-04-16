@@ -54,3 +54,17 @@ met deze tutorial heb ik enemies gemaakt en een bullet waarmee ik ze kan shieten
 [ScriptKillOnHit](Assets/Scripts/KillOnHit.cs)
 [ScriptMoveBullet](Assets/Scripts/BulletMove.cs)
 [ScriptShoot](Assets/Scripts/Shoot.cs)
+
+
+
+# Tutorial 6 
+
+met deze Tutorial heb de enemies laten schieten levens aan de player geven
+
+![Tutorial6](gifjes/Tutorial6.gif)
+
+[scriptshoot](Assets/Scripts/Shoot.cs)
+[scriptKillOnHit](Assets/Scripts/KillOnHit.cs)
+[ScriptHearts](Assets/Scripts/Hearts.cs)
+[ScriptTriggerAnimations](Assets/Scripts/TriggerAnimation.cs)
+[ScriptEnemyShootingBehavior](Assets/Scripts/EnemyShootingBehaviour.cs)
